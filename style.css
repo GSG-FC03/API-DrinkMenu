@@ -1,0 +1,47 @@
+* {
+    font-family: "Poppins", sans-serif;
+    margin: 0;
+    padding: 0;
+  }
+  /* welcome page */
+  
+  .title {
+    text-align: center;
+    margin-top: 20px;
+    border-bottom: 3px solid #ffd200;
+  }
+  .hekma {
+    text-align: center;
+  
+    margin-top: 30px;
+  }
+  .para {
+    font-size: 40px;
+  }
+  span {
+    color: #ffd200;
+  }
+  
+  .buton {
+    text-align: center;
+  }
+  .btn {
+    height: 45px;
+    text-align: center;
+    width: 200px;
+  
+    border: none;
+    outline: none;
+    font-size: 20px;
+    background-color: #ffd200;
+  
+    border-radius: 50px;
+    margin-top: 50px;
+  }
+  .img {
+    height: 500px;
+    width: 350px;
+  }
+  .image {
+    margin-top: 30px;
+  }
