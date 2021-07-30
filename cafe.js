@@ -1,4 +1,4 @@
-
+document.addEventListener("load", getDatta);
 const api = "https://www.thecocktaildb.com/api/json/v1/1/filter.php?c=Cocktail";
 async function getDatta() {
   try {
